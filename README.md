@@ -10,3 +10,4 @@ ___
 ![Static Badge](https://img.shields.io/badge/seaborn-yellow)
 
 ## 📊 My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorVhub)](https://github.com/HectorVhub/github-readme-stats)
